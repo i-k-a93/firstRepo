@@ -1,2 +1,2 @@
 # firstRepo
-This is a fist test perository for api tests
+This is a first test perository for api tests
